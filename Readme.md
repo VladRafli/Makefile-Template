@@ -19,6 +19,22 @@
     <li>To recompile your program, do not forget to use "clean[lnx/win/all]"</li>
 </ol>
 
+<h2>What things included in this Makefile</h2>
+
+<ul>
+    <li>Compile your C code Program</li>
+    <li>Compile your C Project Program</li>
+</ul>
+
+<h2>What coming in the future</h2>
+
+<ul>
+    <li>Compile your C++ code Program</li>
+    <li>Compile your C++ Project Program</li>
+    <li>Compile your Java code Program</li>
+    <li>Compile your Java Project Program</li>
+</ul>
+
 <p>If you want to ask something, you can contact me via email</p>
 <a href="mailto:rafli.jaskandi@gmail.com">Email</a>
 
